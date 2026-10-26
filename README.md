@@ -46,4 +46,4 @@ npx mcp-open-library
 
 ## License
 
-MIT
+Apache-2.0
